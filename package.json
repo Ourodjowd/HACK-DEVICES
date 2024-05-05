@@ -1,0 +1,22 @@
+{
+  "name": "hack-devices",
+  "version": "1.0.0",
+  "description": "a hacking project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Dimi\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ourodjowd/HACK-DEVICES.git"
+  },
+  "keywords": [
+    "hacking"
+  ],
+  "author": "Dimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ourodjowd/HACK-DEVICES/issues"
+  },
+  "homepage": "https://github.com/Ourodjowd/HACK-DEVICES#readme"
+}

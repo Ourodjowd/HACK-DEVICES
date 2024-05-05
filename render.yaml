@@ -1,0 +1,7 @@
+services:
+  - name: web
+    env: node
+    buildCommand: npm start
+    startCommand: npm start
+    github:
+      repo: https://github.com/Ourodjowd/HACK-DEVICES.git
