@@ -4,7 +4,8 @@
   "description": "a hacking project ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Dimi\""
+    "test": "echo \"Dimi\"",
+    "start": "serve -s ."
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Ourodjowd/HACK-DEVICES/issues"
   },
-  "homepage": "https://github.com/Ourodjowd/HACK-DEVICES#readme"
+  "homepage": "https://github.com/Ourodjowd/HACK-DEVICES#readme",
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
 }
