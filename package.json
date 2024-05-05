@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Ourodjowd/HACK-DEVICES#readme",
   "devDependencies": {
-    "serve": "^14.2.3"
+    "serve": "^14.2.3",
+    "express": "^4.17.1"
   }
 }
