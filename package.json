@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Dimi\"",
-    "start": "serve -s ."
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
